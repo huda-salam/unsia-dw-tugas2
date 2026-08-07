@@ -22,8 +22,9 @@ Rangkuman bahasa Indonesia buku **The Data Warehouse Toolkit, 3rd Edition** kary
 | 14 | Healthcare (Layanan Kesehatan) | [Rangkuman-Bab-14-Healthcare.md](Rangkuman-Bab-14-Healthcare.md) · [versi teknis](Rangkuman-Bab-14-Healthcare-TEKNIS.md) |
 | 15 | Electronic Commerce (Perdagangan Elektronik) | [Rangkuman-Bab-15-Electronic-Commerce.md](Rangkuman-Bab-15-Electronic-Commerce.md) · [versi teknis](Rangkuman-Bab-15-Electronic-Commerce-TEKNIS.md) |
 | 16 | Insurance (Asuransi) — rekap pola | [Rangkuman-Bab-16-Insurance.md](Rangkuman-Bab-16-Insurance.md) |
+| 17 | Kimball DW/BI Lifecycle Overview | [Rangkuman-Bab-17-Kimball-Lifecycle.md](Rangkuman-Bab-17-Kimball-Lifecycle.md) · [versi teknis](Rangkuman-Bab-17-Kimball-Lifecycle-TEKNIS.md) |
 
-> Status: sedang dikerjakan bertahap. Bab 17–20 menyusul.
+> Status: sedang dikerjakan bertahap. Bab 18–20 menyusul.
 
 ## Struktur Buku (20 bab)
 
