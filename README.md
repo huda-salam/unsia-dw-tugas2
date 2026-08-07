@@ -20,8 +20,9 @@ Rangkuman bahasa Indonesia buku **The Data Warehouse Toolkit, 3rd Edition** kary
 | 12 | Transportation (Transportasi) | [Rangkuman-Bab-12-Transportation.md](Rangkuman-Bab-12-Transportation.md) |
 | 13 | Education (Pendidikan) | [Rangkuman-Bab-13-Education.md](Rangkuman-Bab-13-Education.md) |
 | 14 | Healthcare (Layanan Kesehatan) | [Rangkuman-Bab-14-Healthcare.md](Rangkuman-Bab-14-Healthcare.md) · [versi teknis](Rangkuman-Bab-14-Healthcare-TEKNIS.md) |
+| 15 | Electronic Commerce (Perdagangan Elektronik) | [Rangkuman-Bab-15-Electronic-Commerce.md](Rangkuman-Bab-15-Electronic-Commerce.md) · [versi teknis](Rangkuman-Bab-15-Electronic-Commerce-TEKNIS.md) |
 
-> Status: sedang dikerjakan bertahap. Bab 15–20 menyusul.
+> Status: sedang dikerjakan bertahap. Bab 16–20 menyusul.
 
 ## Struktur Buku (20 bab)
 
