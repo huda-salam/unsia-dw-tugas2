@@ -16,8 +16,10 @@ Rangkuman bahasa Indonesia buku **The Data Warehouse Toolkit, 3rd Edition** kary
 | 8 | Customer Relationship Management (CRM) | [Rangkuman-Bab-08-CRM.md](Rangkuman-Bab-08-CRM.md) · [versi teknis](Rangkuman-Bab-08-CRM-TEKNIS.md) |
 | 9 | Human Resources Management (SDM) | [Rangkuman-Bab-09-HR-Management.md](Rangkuman-Bab-09-HR-Management.md) · [versi teknis](Rangkuman-Bab-09-HR-Management-TEKNIS.md) |
 | 10 | Financial Services (Jasa Keuangan) | [Rangkuman-Bab-10-Financial-Services.md](Rangkuman-Bab-10-Financial-Services.md) · [versi teknis](Rangkuman-Bab-10-Financial-Services-TEKNIS.md) |
+| 11 | Telecommunications (Telekomunikasi) | [Rangkuman-Bab-11-Telecommunications.md](Rangkuman-Bab-11-Telecommunications.md) |
+| 12 | Transportation (Transportasi) | [Rangkuman-Bab-12-Transportation.md](Rangkuman-Bab-12-Transportation.md) |
 
-> Status: sedang dikerjakan bertahap. Bab 11–20 menyusul.
+> Status: sedang dikerjakan bertahap. Bab 13–20 menyusul.
 
 ## Struktur Buku (20 bab)
 
