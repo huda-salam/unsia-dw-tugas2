@@ -13,8 +13,9 @@ Rangkuman bahasa Indonesia buku **The Data Warehouse Toolkit, 3rd Edition** kary
 | 5 | Procurement (Pengadaan) | [Rangkuman-Bab-05-Procurement.md](Rangkuman-Bab-05-Procurement.md) |
 | 6 | Order Management (Manajemen Pesanan) | [Rangkuman-Bab-06-Order-Management.md](Rangkuman-Bab-06-Order-Management.md) |
 | 7 | Accounting (Akuntansi) | [Rangkuman-Bab-07-Accounting.md](Rangkuman-Bab-07-Accounting.md) · [versi teknis](Rangkuman-Bab-07-Accounting-TEKNIS.md) |
+| 8 | Customer Relationship Management (CRM) | [Rangkuman-Bab-08-CRM.md](Rangkuman-Bab-08-CRM.md) · [versi teknis](Rangkuman-Bab-08-CRM-TEKNIS.md) |
 
-> Status: sedang dikerjakan bertahap. Bab 8–20 menyusul.
+> Status: sedang dikerjakan bertahap. Bab 9–20 menyusul.
 
 ## Struktur Buku (20 bab)
 
