@@ -18,8 +18,9 @@ Rangkuman bahasa Indonesia buku **The Data Warehouse Toolkit, 3rd Edition** kary
 | 10 | Financial Services (Jasa Keuangan) | [Rangkuman-Bab-10-Financial-Services.md](Rangkuman-Bab-10-Financial-Services.md) · [versi teknis](Rangkuman-Bab-10-Financial-Services-TEKNIS.md) |
 | 11 | Telecommunications (Telekomunikasi) | [Rangkuman-Bab-11-Telecommunications.md](Rangkuman-Bab-11-Telecommunications.md) |
 | 12 | Transportation (Transportasi) | [Rangkuman-Bab-12-Transportation.md](Rangkuman-Bab-12-Transportation.md) |
+| 13 | Education (Pendidikan) | [Rangkuman-Bab-13-Education.md](Rangkuman-Bab-13-Education.md) |
 
-> Status: sedang dikerjakan bertahap. Bab 13–20 menyusul.
+> Status: sedang dikerjakan bertahap. Bab 14–20 menyusul.
 
 ## Struktur Buku (20 bab)
 
