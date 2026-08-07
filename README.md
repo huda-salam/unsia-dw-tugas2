@@ -25,8 +25,9 @@ Rangkuman bahasa Indonesia buku **The Data Warehouse Toolkit, 3rd Edition** kary
 | 17 | Kimball DW/BI Lifecycle Overview | [Rangkuman-Bab-17-Kimball-Lifecycle.md](Rangkuman-Bab-17-Kimball-Lifecycle.md) · [versi teknis](Rangkuman-Bab-17-Kimball-Lifecycle-TEKNIS.md) |
 | 18 | Dimensional Modeling Process & Tasks | [Rangkuman-Bab-18-Proses-Pemodelan-Dimensional.md](Rangkuman-Bab-18-Proses-Pemodelan-Dimensional.md) · [versi teknis](Rangkuman-Bab-18-Proses-Pemodelan-Dimensional-TEKNIS.md) |
 | 19 | ETL Subsystems & Techniques (34 subsystem) | [Rangkuman-Bab-19-ETL-Subsystems.md](Rangkuman-Bab-19-ETL-Subsystems.md) · [versi teknis](Rangkuman-Bab-19-ETL-Subsystems-TEKNIS.md) |
+| 20 | ETL System Design & Development | [Rangkuman-Bab-20-ETL-Design-Development.md](Rangkuman-Bab-20-ETL-Design-Development.md) · [versi teknis](Rangkuman-Bab-20-ETL-Design-Development-TEKNIS.md) |
 
-> Status: sedang dikerjakan bertahap. Bab 20 menyusul.
+> Status: **SELESAI** — seluruh 20 bab telah dirangkum. ✅
 
 ## Struktur Buku (20 bab)
 
