@@ -9,8 +9,9 @@ Rangkuman bahasa Indonesia buku **The Data Warehouse Toolkit, 3rd Edition** kary
 | 1 | Primer Data Warehousing, BI, dan Dimensional Modeling | [Rangkuman-Bab-01-Primer-DW-BI-Dimensional-Modeling.md](Rangkuman-Bab-01-Primer-DW-BI-Dimensional-Modeling.md) |
 | 2 | Ikhtisar Teknik Pemodelan Dimensional Kimball | [Rangkuman-Bab-02-Teknik-Pemodelan-Dimensional.md](Rangkuman-Bab-02-Teknik-Pemodelan-Dimensional.md) |
 | 3 | Retail Sales (Penjualan Ritel) | [Rangkuman-Bab-03-Retail-Sales.md](Rangkuman-Bab-03-Retail-Sales.md) |
+| 4 | Inventory (Persediaan) | [Rangkuman-Bab-04-Inventory.md](Rangkuman-Bab-04-Inventory.md) |
 
-> Status: sedang dikerjakan bertahap. Bab 4–20 menyusul.
+> Status: sedang dikerjakan bertahap. Bab 5–20 menyusul.
 
 ## Struktur Buku (20 bab)
 
