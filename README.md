@@ -10,8 +10,11 @@ Rangkuman bahasa Indonesia buku **The Data Warehouse Toolkit, 3rd Edition** kary
 | 2 | Ikhtisar Teknik Pemodelan Dimensional Kimball | [Rangkuman-Bab-02-Teknik-Pemodelan-Dimensional.md](Rangkuman-Bab-02-Teknik-Pemodelan-Dimensional.md) |
 | 3 | Retail Sales (Penjualan Ritel) | [Rangkuman-Bab-03-Retail-Sales.md](Rangkuman-Bab-03-Retail-Sales.md) |
 | 4 | Inventory (Persediaan) | [Rangkuman-Bab-04-Inventory.md](Rangkuman-Bab-04-Inventory.md) |
+| 5 | Procurement (Pengadaan) | [Rangkuman-Bab-05-Procurement.md](Rangkuman-Bab-05-Procurement.md) |
+| 6 | Order Management (Manajemen Pesanan) | [Rangkuman-Bab-06-Order-Management.md](Rangkuman-Bab-06-Order-Management.md) |
+| 7 | Accounting (Akuntansi) | [Rangkuman-Bab-07-Accounting.md](Rangkuman-Bab-07-Accounting.md) · [versi teknis](Rangkuman-Bab-07-Accounting-TEKNIS.md) |
 
-> Status: sedang dikerjakan bertahap. Bab 5–20 menyusul.
+> Status: sedang dikerjakan bertahap. Bab 8–20 menyusul.
 
 ## Struktur Buku (20 bab)
 
