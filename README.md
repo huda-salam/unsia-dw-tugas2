@@ -23,8 +23,9 @@ Rangkuman bahasa Indonesia buku **The Data Warehouse Toolkit, 3rd Edition** kary
 | 15 | Electronic Commerce (Perdagangan Elektronik) | [Rangkuman-Bab-15-Electronic-Commerce.md](Rangkuman-Bab-15-Electronic-Commerce.md) · [versi teknis](Rangkuman-Bab-15-Electronic-Commerce-TEKNIS.md) |
 | 16 | Insurance (Asuransi) — rekap pola | [Rangkuman-Bab-16-Insurance.md](Rangkuman-Bab-16-Insurance.md) |
 | 17 | Kimball DW/BI Lifecycle Overview | [Rangkuman-Bab-17-Kimball-Lifecycle.md](Rangkuman-Bab-17-Kimball-Lifecycle.md) · [versi teknis](Rangkuman-Bab-17-Kimball-Lifecycle-TEKNIS.md) |
+| 18 | Dimensional Modeling Process & Tasks | [Rangkuman-Bab-18-Proses-Pemodelan-Dimensional.md](Rangkuman-Bab-18-Proses-Pemodelan-Dimensional.md) · [versi teknis](Rangkuman-Bab-18-Proses-Pemodelan-Dimensional-TEKNIS.md) |
 
-> Status: sedang dikerjakan bertahap. Bab 18–20 menyusul.
+> Status: sedang dikerjakan bertahap. Bab 19–20 menyusul.
 
 ## Struktur Buku (20 bab)
 
