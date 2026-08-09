@@ -29,6 +29,13 @@ Rangkuman bahasa Indonesia buku **The Data Warehouse Toolkit, 3rd Edition** kary
 
 > Status: **SELESAI** — seluruh 20 bab telah dirangkum. ✅
 
+## Slide Presentasi
+
+| Berkas | Keterangan |
+|---|---|
+| [Overview-DW-Toolkit.pptx](Overview-DW-Toolkit.pptx) | Deck ikhtisar seluruh buku (18 slide) dengan diagram konsep |
+| [Template-Rangkuman-DW.pptx](Template-Rangkuman-DW.pptx) | Template kosong (5 layout) untuk deck lanjutan |
+
 ## Struktur Buku (20 bab)
 
 - **Bab 1–2:** Fondasi — tujuan DW/BI, konsep dimensional, katalog teknik.
