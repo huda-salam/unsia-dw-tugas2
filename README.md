@@ -34,6 +34,7 @@ Rangkuman bahasa Indonesia buku **The Data Warehouse Toolkit, 3rd Edition** kary
 | Berkas | Keterangan |
 |---|---|
 | [Overview-DW-Toolkit.pptx](Overview-DW-Toolkit.pptx) | Deck ikhtisar seluruh buku (18 slide) dengan diagram konsep |
+| [Bab-01-Primer.pptx](Bab-01-Primer.pptx) | Deck Bab 1 — Primer DW/BI & Dimensional Modeling (6 slide) |
 | [Template-Rangkuman-DW.pptx](Template-Rangkuman-DW.pptx) | Template kosong (5 layout) untuk deck lanjutan |
 
 ## Struktur Buku (20 bab)
