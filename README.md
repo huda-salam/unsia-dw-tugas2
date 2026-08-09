@@ -36,6 +36,11 @@ Rangkuman bahasa Indonesia buku **The Data Warehouse Toolkit, 3rd Edition** kary
 | [Overview-DW-Toolkit.pptx](Overview-DW-Toolkit.pptx) | Deck ikhtisar seluruh buku (18 slide) dengan diagram konsep |
 | [Bab-01-Primer.pptx](Bab-01-Primer.pptx) | Deck Bab 1 — Primer DW/BI & Dimensional Modeling (6 slide) |
 | [Bab-02-Teknik-Pemodelan.pptx](Bab-02-Teknik-Pemodelan.pptx) | Deck Bab 2 — Ikhtisar Teknik Pemodelan Dimensional (7 slide) |
+| [Bab-03-05-Rantai-Nilai-Retail.pptx](Bab-03-05-Rantai-Nilai-Retail.pptx) | Deck Bab 3–5 — Rantai Nilai Retail (Sales · Inventory · Procurement) |
+| [Bab-06-07-Order-Accounting.pptx](Bab-06-07-Order-Accounting.pptx) | Deck Bab 6–7 — Order Management & Accounting |
+| [Bab-08-09-CRM-HR.pptx](Bab-08-09-CRM-HR.pptx) | Deck Bab 8–9 — Pelanggan & Karyawan (CRM · HR) |
+| [Bab-10-12-FinServ-Telco-Transport.pptx](Bab-10-12-FinServ-Telco-Transport.pptx) | Deck Bab 10–12 — Jasa Keuangan, Telko & Transportasi |
+| [Bab-13-16-Services-Digital-Insurance.pptx](Bab-13-16-Services-Digital-Insurance.pptx) | Deck Bab 13–16 — Pendidikan, Kesehatan, E-Commerce & Asuransi |
 | [Template-Rangkuman-DW.pptx](Template-Rangkuman-DW.pptx) | Template kosong (5 layout) untuk deck lanjutan |
 
 ## Struktur Buku (20 bab)
